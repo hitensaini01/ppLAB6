@@ -1,0 +1,3 @@
+#  Get the largest number from a list
+def max_list(lst):
+    return max(lst)
