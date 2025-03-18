@@ -1,0 +1,3 @@
+#  Sum all items in a list
+def sum_list(lst):
+    return sum(lst)
