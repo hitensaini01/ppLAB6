@@ -1,0 +1,3 @@
+# Check if two lists have at least one common element
+def common_member(lst1, lst2):
+    return bool(set(lst1) & set(lst2))
